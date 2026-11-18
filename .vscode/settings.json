@@ -1,0 +1,8 @@
+{
+    // Khi nhấn Go Live, phục vụ từ thư mục NetMon-Cloud.
+    // Phải chạy đúng http://localhost:5500/ vì Cognito dùng callback này.
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.root": "/",
+    "liveServer.settings.NoBrowser": false
+}
